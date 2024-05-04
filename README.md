@@ -16,6 +16,8 @@ O projeto é um agregador de links desenvolvido durante o curso de formação b�
 
 O agrupador de páginas consiste num site que possui 4 redirecionadores, além de ícones de redes sociais que redirecionam para os respectivos perfis. Também, com o auxílio do JavaScript foi possível adicionar um botão que permite a alternar entre tema claro e escuro.
 
+Você pode acessar o projeto <a href="https://jackemimi.github.io/Projeto-Discover/" rel="nofollow">clicando aqui</a>
+
 <h2 id="tecnologias">🚀 Tecnologias</h2>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
